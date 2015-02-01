@@ -1,0 +1,5 @@
+c:\users\goshev\documents\visual studio 2013\Projects\Conditional Statements\10BeerTime\bin\Debug\10BeerTime.exe.config
+c:\users\goshev\documents\visual studio 2013\Projects\Conditional Statements\10BeerTime\bin\Debug\10BeerTime.exe
+c:\users\goshev\documents\visual studio 2013\Projects\Conditional Statements\10BeerTime\bin\Debug\10BeerTime.pdb
+c:\users\goshev\documents\visual studio 2013\Projects\Conditional Statements\10BeerTime\obj\Debug\10BeerTime.exe
+c:\users\goshev\documents\visual studio 2013\Projects\Conditional Statements\10BeerTime\obj\Debug\10BeerTime.pdb

@@ -1,0 +1,5 @@
+c:\users\goshev\documents\visual studio 2013\Projects\Conditional Statements\07Sort 3 Numbers with Nested Ifs\bin\Debug\07Sort 3 Numbers with Nested Ifs.exe.config
+c:\users\goshev\documents\visual studio 2013\Projects\Conditional Statements\07Sort 3 Numbers with Nested Ifs\bin\Debug\07Sort 3 Numbers with Nested Ifs.exe
+c:\users\goshev\documents\visual studio 2013\Projects\Conditional Statements\07Sort 3 Numbers with Nested Ifs\bin\Debug\07Sort 3 Numbers with Nested Ifs.pdb
+c:\users\goshev\documents\visual studio 2013\Projects\Conditional Statements\07Sort 3 Numbers with Nested Ifs\obj\Debug\07Sort 3 Numbers with Nested Ifs.exe
+c:\users\goshev\documents\visual studio 2013\Projects\Conditional Statements\07Sort 3 Numbers with Nested Ifs\obj\Debug\07Sort 3 Numbers with Nested Ifs.pdb
